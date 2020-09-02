@@ -1,2 +1,4 @@
 # web1
-it's my first web hosting.
+this is the things for my first web hosting.
+
+most of file is copied from 'opentutorials.org'.
